@@ -22,6 +22,6 @@ $client->messages->create(
     '+2348164346318',
     array(
         'from' => $twilio_number,
-        'body' => 'You \'re doing well'
+        'body' => 'Hello World'
     )
 );
